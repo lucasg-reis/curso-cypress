@@ -18,8 +18,7 @@ describe.only('Cypress basics', () => {
     })
 })
 
-//TODO imprimir o title no console  
-//TODO escrever o title em um campo de texto
+
 
 
 it('Should find and interact with an element', () => {
