@@ -12,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "^12.5.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
   }
 }
